@@ -5,7 +5,7 @@ Version:           6
 Release:           4.1%{?dist}
 
 License:           ASL 2.0
-URL:               http://hc.apache.org/
+URL:               https://hc.apache.org/
 # svn export http://svn.apache.org/repos/asf/httpcomponents/project/tags/%{version} %{name}-%{version}
 # tar cJf %{name}-%{version}.tar.xz %{name}-%{version}
 Source:            %{name}-%{version}.tar.bz2
